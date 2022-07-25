@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+#container {
+  margin: auto;
+  position: relative;
+  /* width: 600px;
+  height: 650px; */
+}
